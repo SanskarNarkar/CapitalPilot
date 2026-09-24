@@ -1,0 +1,14 @@
+django>=5.1.0,<6.0.0
+djangorestframework>=3.15.0
+django-cors-headers>=4.4.0
+gunicorn>=23.0.0
+whitenoise>=6.8.0
+djangorestframework-simplejwt>=5.3.1
+requests>=2.32.0
+psycopg[binary]>=3.2.0
+cryptography>=43.0.0
+pyotp>=2.9.0
+python-dotenv>=1.0.1
+numpy>=1.26.0
+celery>=5.4.0
+redis>=5.0.0
